@@ -21,37 +21,37 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['917561815867'] //ur owner number
+global.ownernomer = "17052301998" //ur owner number2
+global.ownername = "___𝙸𝚃𝚊𝙲𝙷𝙸__🪬" //ur owner name
+global.ytname = "❄️☮️" //ur yt chanel name
+global.socialm = "GitHub:ITAXHI007" //ur github or insta name
+global.location = "EARTH, 🌎 " //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.botname = "𝑆𝛨𝛪𝛮𝛭É𝛮 𝑇𝛥𝛫𝛯𝛧Ō"
+global.ownernumber = '917561815867'
+global.ownername = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬'
+global.ownerNumber = ["917561815867@s.whatsapp.net"]
+global.ownerweb = "http://wa.me/917561815867?text=_៚ʜᴇʟʟᴏ+sᴇʀ+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+☮️🕊️_"
+global.websitex = "https://itaxhi.com/007"
+global.wagc = "__"
+global.themeemoji = '🃏'
+global.wm = "~𝘿𝞗𝙁𝙇𝞓𝞛𝞘𝞜𝙂𝞗"
+global.botscript = '__' //script link
+global.packname = "___𝙸𝚃𝚊𝙲𝙷𝙸__🪬"
+global.author = "☮️🕊️"
+global.creator = "917561815867@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
+global.thum = fs.readFileSync("./XeonMedia/theme/Joker.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/Takezo.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/obito.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/Joker.jpg") //ur thumb pic
+global.defaultpp = 'https://pixabay.com/illustrations/goku-anime-character-fictional-6563674/' //default pp wa
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
