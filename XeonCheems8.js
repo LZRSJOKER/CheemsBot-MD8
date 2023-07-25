@@ -502,7 +502,7 @@ isForwarded: true,
 "body": `${ownername}`,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
-"thumbnail": fs.readFileSync(`./XeonMedia/theme/cheemspic.jpg`),
+"thumbnail": fs.readFileSync(`./XeonMedia/theme/Joker.jpg`),
 "sourceUrl": `${wagc}`}}},
 { quoted: m})
 }
